@@ -3,7 +3,7 @@ Feature Engineering is the process of using domain knowledge to extract features
 features can be used to improve the performance of machine learning algorithms.
 
 
-## Feature Engineering consists of:
+### Feature Engineering:
 1. Feature Transformation
     * Missing Value Imputation.
     * Handling Categorical Features.
